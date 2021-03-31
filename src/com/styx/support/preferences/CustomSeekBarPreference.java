@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.statix.support.preferences;
+package com.styx.support.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -26,7 +26,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import androidx.preference.*;
 
-import com.statix.support.R;
+import com.styx.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();

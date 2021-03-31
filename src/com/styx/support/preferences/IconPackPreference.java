@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.statix.support.preferences;
+package com.styx.support.preferences;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -42,7 +42,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.statix.support.R;
+import com.styx.support.R;
 
 public class IconPackPreference extends Preference {
 

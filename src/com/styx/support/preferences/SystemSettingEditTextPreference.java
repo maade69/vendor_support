@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.statix.support.preferences;
+package com.styx.support.preferences;
 
 import android.content.Context;
 import androidx.preference.EditTextPreference;

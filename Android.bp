@@ -6,7 +6,7 @@ android_library {
         enabled: false,
     },
 
-    srcs: ["src/**/*.java", "src/**/*.kt"],
+    srcs: ["src/**/*.java"],
 
     static_libs: [
         "androidx.annotation_annotation",
